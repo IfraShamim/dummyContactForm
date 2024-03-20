@@ -1,0 +1,29 @@
+.container{
+    /* border: 1px solid black; */
+    width: 100%;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    display: flex;
+}
+.top_btn{
+    display: flex;
+    gap: 5rem;
+}
+.contactForm{
+    width: 50%;
+}
+.contact_control{
+    width: 80%;
+}
+.fieldset1{
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+}
+.fieldset2{
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+}
+.contactImage img{
+   width: 42rem;
+   height: 30rem;
+}

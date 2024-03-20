@@ -1,0 +1,16 @@
+.contact{
+    /* border: 1px solid black; */
+    padding-top: 5rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+h1{
+    font-size: 3rem;
+    padding-bottom: 2rem;
+    text-transform: uppercase;
+}
+p{
+    font-size: 2rem;
+    word-spacing: 0.002rem;
+    padding-bottom: 2rem;
+}

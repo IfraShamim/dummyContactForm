@@ -1,0 +1,35 @@
+.primary_btn{
+    padding: 1rem 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 0.5rem;
+    min-width: 220px;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    font-size: 1.3rem;
+    border: none;
+    outline: none;
+    justify-content: center;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.outline_btn{
+    padding: 1rem 1rem;
+    border: 1px solid black;
+    color: black;
+    border-radius: 0.5rem;
+    min-width: 220px;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    font-size: 1.3rem;
+    outline: none;
+    justify-content: center;
+    text-transform: uppercase;
+    background-color: white;
+    width: 79%;
+    margin-top: 2rem;
+    cursor: pointer;
+    margin-bottom: 2rem;
+}
